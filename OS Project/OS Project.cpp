@@ -3,5 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello sur, what should we name this restaurant? ";
+	cout << "Welcome to MR.chicken\n ";
+	cout << "please Enter a Choice:- \n[1] - ";
 }
